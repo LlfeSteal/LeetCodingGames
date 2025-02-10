@@ -60,7 +60,9 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Imp\RemoveduplicatesFromSortedArrayII.cs" />
     <Compile Include="Imp\RemoveduplicatesFromSortedArray.cs" />
+    <Compile Include="Test\RemoveduplicatesFromSortedArrayIITest .cs" />
     <Compile Include="Test\RemoveduplicatesFromSortedArrayTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
