@@ -9,7 +9,7 @@ namespace LeetCodingGames.Test.RemoveDuplicates
     public class RemoveduplicatesFromSortedArrayTest
     {
         [TestMethod]
-        public void RemoveElementShouldRemoveDuplicated_Case1()
+        public void RemoveDuplicatesShouldRemoveDuplicated_Case1()
         {
             // Arrange
             int[] nums = new[] { 1, 1, 2 };
@@ -25,7 +25,7 @@ namespace LeetCodingGames.Test.RemoveDuplicates
         }
 
         [TestMethod]
-        public void RemoveElementShouldRemoveDuplicated_Case2()
+        public void RemoveDuplicatesShouldRemoveDuplicated_Case2()
         {
             // Arrange
             int[] nums = new[] { 0, 0, 1, 1, 1, 2, 2, 3, 3, 4 };

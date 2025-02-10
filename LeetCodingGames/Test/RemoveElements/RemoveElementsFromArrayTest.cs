@@ -9,7 +9,7 @@ namespace LeetCodingGames.Test.RemoveElements
     public class RemoveElementsFromArrayTest
     {
         [TestMethod]
-        public void RemoveElementShouldRemoveDuplicated_Case1()
+        public void RemoveElementShouldRemoveElements_Case1()
         {
             // Arrange
             int[] nums = new[] { 3, 2, 2, 3 };
@@ -25,7 +25,7 @@ namespace LeetCodingGames.Test.RemoveElements
         }
 
         [TestMethod]
-        public void RemoveElementShouldRemoveDuplicated_Case2()
+        public void RemoveElementShouldRemoveElements_Case2()
         {
             // Arrange
             int[] nums = new[] { 0, 1, 2, 2, 3, 0, 4, 2 };
