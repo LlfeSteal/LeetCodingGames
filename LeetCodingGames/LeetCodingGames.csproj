@@ -60,9 +60,11 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Imp\Merge\MergeSortedArray.cs" />
     <Compile Include="Imp\RemoveDuplicates\RemoveduplicatesFromSortedArrayII.cs" />
     <Compile Include="Imp\RemoveDuplicates\RemoveduplicatesFromSortedArray.cs" />
     <Compile Include="Imp\RemoveElements\RemoveElementsFromArray.cs" />
+    <Compile Include="Test\Merge\MergeSortedArrayTest.cs" />
     <Compile Include="Test\RemoveDuplicates\RemoveduplicatesFromSortedArrayIITest .cs" />
     <Compile Include="Test\RemoveDuplicates\RemoveduplicatesFromSortedArrayTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
