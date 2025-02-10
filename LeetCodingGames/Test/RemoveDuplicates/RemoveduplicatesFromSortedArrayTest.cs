@@ -1,13 +1,9 @@
 ﻿using FluentAssertions;
-using LeetCodingGames.Imp;
+using LeetCodingGames.Imp.RemoveDuplicates;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace LeetCodingGames.Test
+namespace LeetCodingGames.Test.RemoveDuplicates
 {
     [TestClass]
     public class RemoveduplicatesFromSortedArrayTest
