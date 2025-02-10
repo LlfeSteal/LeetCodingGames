@@ -62,9 +62,11 @@
   <ItemGroup>
     <Compile Include="Imp\RemoveDuplicates\RemoveduplicatesFromSortedArrayII.cs" />
     <Compile Include="Imp\RemoveDuplicates\RemoveduplicatesFromSortedArray.cs" />
+    <Compile Include="Imp\RemoveElements\RemoveElementsFromArray.cs" />
     <Compile Include="Test\RemoveDuplicates\RemoveduplicatesFromSortedArrayIITest .cs" />
     <Compile Include="Test\RemoveDuplicates\RemoveduplicatesFromSortedArrayTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Test\RemoveElements\RemoveElementsFromArrayTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
